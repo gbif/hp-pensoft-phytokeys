@@ -2,25 +2,45 @@
 lang-ref: about
 title: About
 # description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/placeholders/bdj-hp-about.jpg
+background: /assets/images/placeholders/pk-hp-about.jpg
 imageLicense: |
-  Yu H, Zhang C, Lu Q, Lin Y (2024) A survey of Hersilia spiders (Araneae, Hersiliidae) from Xishuangbanna, Yunnan Province, China. Biodiversity Data Journal 12: e142805. [https://doi.org/10.3897/BDJ.12.e142805](https://doi.org/10.3897/BDJ.12.e142805)
+  
 height: 70vh
 ---
 
-This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [Biodiversity Data Journal](https://bdj.pensoft.net/).
+This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [PhytoKeys](https://phytokeys.pensoft.net/).
 
-**Biodiversity Data Journal (BDJ)** is a community peer-reviewed, open access, comprehensive online platform, designed to accelerate publishing, dissemination and sharing of biodiversity-related data of any kind. All structural elements of the articles – text, morphological descriptions, occurrences, data tables etc. – will be treated and stored as data, in accordance with the Data [Publishing Policies and Guidelines of Pensoft Publishers](https://doi.org/10.3897/rio.3.e12431).
+**PhytoKeys** is a peer-reviewed, open-access, rapidly disseminated journal launched to accelerate research and free information exchange in taxonomy, phylogeny, biogeography and evolution of plants.
 
-The journal will publish papers in biodiversity science containing taxonomic, floristic/faunistic, morphological, genomic, phylogenetic, ecological or environmental data on any taxon of any geological era from any part of the world with no lower or upper limit to manuscript size. For example:
+**PhytoKeys** aims to apply the latest trends and methodologies in publishing and preservation of digital materials to meet the highest possible standards of the cybertaxonomy era.
 
-* single taxon treatments and nomenclatural acts (e.g., new taxa, new taxon names, new synonyms, changes in taxonomic status, re-descriptions, etc.);
-* data papers describing biodiversity-related databases, including ecological and environmental data;
-* sampling reports, local observations or occasional inventories, if these contain novel data;
-* local or regional checklists and inventories;
-* habitat-based checklists and inventories;
-* ecological and biological observations of species and  communities;
-* any kind of identification keys, from conventional dichotomous to multi-access interactive online keys;
-* descriptions of biodiversity-related software tools.
-  
-For more information, you may look at the Editorial [Beyond dead trees: integrating the scientific process in the Biodiversity Data Journal](https://bdj.pensoft.net/articles.php?id=995) and press release [The Biodiversity Data Journal: Readable by humans and machines](http://www.eurekalert.org/pub_releases/2013-09/pp-tbd091613.php).
+**PhytoKeys** will publish papers in systematic botany containing taxonomic/floristic data on any taxon of any geological age from any part of the world with no limit to manuscript size.
+
+**PhytoKeys** will consider for publishing works on the following topics:
+
+* descriptions of new taxa, if they are accompanied with proper diagnoses, keys and/or distinction from close relatives or similar taxa
+* taxonomic revisions of extant (or ''recent'') and fossil plant groups
+* checklists and catalogues
+* phylogenetic and evolutionary analyses
+* papers in descriptive and/or historical biogeography
+* methodology papers
+* data mining and literature surveys
+* monographs, conspecti, atlases
+* collections of papers, Festschrift volumes, conference proceedings
+
+Extensive floristic overviews on a group in a country or larger region are welcome. Short floristic contributions may be considered if they are based on significant or unexpected discovery. Regular floristic contributions may eventually be published in special issues devoted to a region/country.
+
+The following categories of papers will be considered:
+
+* original research articles
+* reviews - longer articles, offering a comprehensive overview, historical analysis or/and future perspectives of a topic
+* monographs and collections of papers with no limit in size, published as 'special issues'
+* data papers
+* short communications
+* letters and discussion papers
+* book reviews
+
+The journal publishes electronic versions of the articles when these are ready to publish, without delays that might be caused by completion of an issue. These electronic versions are not "pre-prints" but final and immutable (Version of Record), hence available for the purposes of biological nomenclature. The date indicated on the electronic version is to be considered the actual publication date.
+
+ISBN numbers will be assigned to large monographic papers (i.e., major revisions of taxa, min 100 pp), collections of papers, Festschrift volumes, atlases, checklists, conspecti.
+
