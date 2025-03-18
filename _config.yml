@@ -23,7 +23,7 @@ title: PhytoKeys Hosted Portal
 email: phytokeys@pensoft.net
 description: PhytoKeys Hosted Portal
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://phytokeys.hp.gbif.org/" # https://data.phytokeys.pensoft.net/ the base hostname & protocol for your site, e.g. http://example.com
+url: "https://data.phytokeys.pensoft.net/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PhytoKeys # if you have an account you want to link to. Else comment this line out
 bluesky_username: phytokeys.pensoft.net
 facebook_username: PhytoKeys
