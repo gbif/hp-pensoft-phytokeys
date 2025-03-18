@@ -4,7 +4,7 @@ layout: home
 preTitle: Hosted Portal
 title: PhytoKeys
 description: Browse data on GBIF associated with publications in PhytoKeys
-background: /assets/images/placeholders/pk-hp-cover.jpg
+background: /assets/images/placeholders/pk-hp-cover2.jpg
 imageLicense: "Zhang M-L, He Y, Liu Q-R (2023) A new species of _Argyreia_ (Convolvulaceae) from Yunnan, China. PhytoKeys 225: 199-209. [https://doi.org/10.3897/phytokeys.225.100646](https://doi.org/10.3897/phytokeys.225.100646)"
 height: 75vh
 cta:
