@@ -5,7 +5,7 @@ preTitle: Hosted Portal
 title: PhytoKeys
 description: Browse data on GBIF associated with publications in PhytoKeys
 background: /assets/images/placeholders/pk-hp-cover.jpg
-imageLicense: ""
+imageLicense: "Liu P-L, Guo Q-X, Zhang J-Q, Xun L-L, Lu Y, Yue M (2024) _Hedysarum qilianshanense_ sp. nov. (Fabaceae, Hedysareae), a new species from the Qilianshan Mountains in Gansu, China. PhytoKeys 237: 103-116. https://doi.org/10.3897/phytokeys.237.116236"
 height: 75vh
 cta:
   - text: Datasets

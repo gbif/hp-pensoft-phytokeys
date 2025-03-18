@@ -4,7 +4,7 @@ title: About
 # description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/placeholders/pk-hp-about.jpg
 imageLicense: |
-  
+  Chen X, Hou W-X, Hu J-L, Dong M-D, Tan B-M (2024) Resurrection of _Sorbus tapashana_ (Rosaceae) based on molecular and morphological evidence. PhytoKeys 247: 29-38. [https://doi.org/10.3897/phytokeys.247.132538](https://doi.org/10.3897/phytokeys.247.132538)
 height: 70vh
 ---
 
